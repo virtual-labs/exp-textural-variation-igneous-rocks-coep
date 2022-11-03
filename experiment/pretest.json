@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the texture called when large-sized crystals are embedded in fine grained matrix?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Granitic texture",
+        "b": "Poiklitic texture",
+        "c": "Porphyritic texture",
+        "d": "Directive texture"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation :The porphyritic texture is characterized by the presence of a few conspicuously large sized crystals (the phenocrysts) which are embedded in a fine-grained ground mass or matrix.",
+        "d": "Explanation "
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The texture which the characteristics in between granitic and felsitic are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Secondary",
+        "b": "Intermediate",
+        "c": "Orthophyric",
+        "d": "Transitional"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation :Orthophyric texture is another type of equigranular texture, which is in between the granitic and felsitic textures. The individual grains are fine in size but not microgranular.",
+        "d": "Explanation "
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which texture indicates the flow of magma during its formation?",
+      "answers": {
+        "a": "Equigranular",
+        "b": "Directive",
+        "c": "Intergrowth",
+        "d": "Intergranular"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation :Those textures that indicate the result of the flow of magma during the formation of rocks are known as directive textures.",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is it called when two or more minerals crystallize simultaneously in a limited space?",
+      "answers": {
+        "a": "Directive texture",
+        "b": "Intergrowth texture",
+        "c": "Interstitial texture",
+        "d": "Intergranular texture"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation :During the formation of the igneous rocks, sometimes two or more minerals may crystallize out simultaneously in a limited space so that the resulting crystals are mixed up or intergrown. This type of mutual arrangement is expressed by the term intergrowth texture.",
+        "c": "Explanation ",
+        "d": "Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the term when augite has inclusions of plagioclase felspar?",
+      "answers": {
+        "a": "Poiklitic",
+        "b": "Granitic",
+        "c": "Felsitic",
+        "d": "Ophitic"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation :When the host mineral is identified as augite and the inclusions are of plagioclase felspars, the poiklitic texture is further distinguished as ophitic."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

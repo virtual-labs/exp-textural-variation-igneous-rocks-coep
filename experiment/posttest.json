@@ -2,38 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Pick the option which does not determine the texture of igneous rocks.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Colour",
+        "b": "Size",
+        "c": "Shape",
+        "d": "Arrangement of the constituents within the body of the rock"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation :The term texture is defined as the mutual relationship of different mineralogical constituents in a rock. It is determined by the size, shape and arrangement of these constituents within the body of the rock.",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+	{
+      "question": "What is the absolute reverse of porphyritic texture?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Poiklitic",
+        "b": "Granitic",
+        "c": "Felsitic",
+        "d": "Ophitic"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation : Poikilitic texture is characterized with the presence of fine-grained crystals within the body of large sized crystals. In other words, it is just the reverse of the porphyritic textures.",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation "
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the term when augite has inclusions of plagioclase felspar?",
+      "answers": {
+        "a": "Poiklitic",
+        "b": "Granitic",
+        "c": "Felsitic",
+        "d": "Ophitic"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": "Explanation ",
+        "c": "Explanation ",
+        "d": "Explanation :When the host mineral is identified as augite and the inclusions are of plagioclase felspars, the poiklitic texture is further distinguished as ophitic."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
+    
   ]
 }
