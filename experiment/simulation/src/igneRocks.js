@@ -351,7 +351,7 @@ function smtQuestion(){
 	  		+'<strong id="notSelected">Skipped Question : '+notSelected+' </strong><br>'
 		  	+'</div>'
 			
-			$("#modalHeading").html("Selected igneous rocks : " + tempMasterJson.demo[copyMineralid].originalName);
+			$("#modalHeading").html("Selected igneous rocks : " + tempMasterJson.demo[copyMineralid].textureName);
 			$("#AddResult").html("<center><strong style='color:green;'>Click on OK button to continue</strong></center><br/>");
 				 
 		
