@@ -20,22 +20,22 @@ results from the explosive fragmentation of volcanic material, including magma (
 Replacement textures occur where a mineral or mineral aggregate has the external crystal form of a preexisting different mineral (pseudomorphism) or where the juxtaposition of two minerals indicates that one was formed at the expense of the other.
 ### Aphanitic Texture
 ![aphanitic*************************************************](images/aphanitic.jpg)
-Aphanitic rocks have mineral grains that are mostly too small to be seen with the naked eye or a hand lens, like this Rhyolite. Basalt is another igneous rock with the aphanitic texture. 
+<br>Aphanitic rocks have mineral grains that are mostly too small to be seen with the naked eye or a hand lens, like this Rhyolite. Basalt is another igneous rock with the aphanitic texture. 
 ### Equigranular Texture
 ![Equigranular*************************************************](images/Equigranular.jpg)
-Rocks with EQUIGRANULAR have mineral grains that are generally the same size. This example is a GRANITE.
+<br>Rocks with EQUIGRANULAR have mineral grains that are generally the same size. This example is a GRANITE.
 ### Glassy Texture
 ![glassy*************************************************](images/glassy.jpg)
-Glassy (or hyaline or vitreous) rocks have no or almost no grains at all, as in this quickly chilled pahoehoe basalt or in OBSIDIAN..
+<br>Glassy (or hyaline or vitreous) rocks have no or almost no grains at all, as in this quickly chilled pahoehoe basalt or in OBSIDIAN..
 ### Phaneritic Texture
 ![phaneritic*************************************************](images/phaneritic.jpg)
-Phaneritic rocks have mineral grains that are large enough to be seen with the naked eye or a hand lens, like this GRANITE
+<br>Phaneritic rocks have mineral grains that are large enough to be seen with the naked eye or a hand lens, like this GRANITE
 ### Poikilitic Texture
 ![Poikilitic*************************************************](images/Poikilitic.jpg)
-Poikilitic  texture is one in which large crystals, like this feldspar grain, contain small grains of other minerals scattered inside them And it is commonly found in rock  SYENITE.
+<br>Poikilitic  texture is one in which large crystals, like this feldspar grain, contain small grains of other minerals scattered inside them And it is commonly found in rock  SYENITE.
 ### Pyroclastic Texture
 ![Pyroclastic*************************************************](images/pyroclastic.jpg)
-Rocks with pyroclastic texture are made of pieces of volcanic material that are created in an explosive eruption, like this welded tuff. Pyroclastic texture results from the explosive fragmentation of volcanic material, including magma (commonly the light, frothy pumice variety and glass fragments called shards), country rock, and phenocrysts.eg-PUMICE
+<br>Rocks with pyroclastic texture are made of pieces of volcanic material that are created in an explosive eruption, like this welded tuff. Pyroclastic texture results from the explosive fragmentation of volcanic material, including magma (commonly the light, frothy pumice variety and glass fragments called shards), country rock, and phenocrysts.eg-PUMICE
 ### Vesicular Texture
 ![vesicular*************************************************](images/vesicular.jpg)
-Rocks with vesicular texture are full of bubbles. It always indicates a volcanic rock, like this SCORIA.
+<br>Rocks with vesicular texture are full of bubbles. It always indicates a volcanic rock, like this SCORIA.
