@@ -237,7 +237,7 @@ tempQuestionArr.push(questionAnswer);
 masterJson = {
 	"mineralId": 3,
 	"dummyName": "Texture3",
-	"textureName": "Porphynitic texture", 
+	"textureName": "Porphyritic texture", 
 	"src": "images/Porphyritic granite 1.jpg",
 	"src1": "images/Porphyritic granite 2.jpg",
 	"src2": "images/Porphyritic granite 3.jpg",
