@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the texture called when large-sized crystals are embedded in fine grained matrix?",
+      "answers": {
+        "a": "Granitic texture",
+        "b": "Poiklitic texture",
+        "c": "Porphyritic texture",
+        "d": "Directive texture"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The texture which the characteristics in between granitic and felsitic are",
+      "answers": {
+        "a": "Secondary",
+        "b": "Intermediate",
+        "c": "Orthophyric",
+        "d": "Transitional"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which texture indicates the flow of magma during its formation?",
+      "answers": {
+        "a": "Equigranular",
+        "b": "Directive",
+        "c": "Intergrowth",
+        "d": "Intergranular"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is it called when two or more minerals crystallize simultaneously in a limited space?",
+      "answers": {
+        "a": "Directive texture",
+        "b": "Intergrowth texture",
+        "c": "Interstitial texture",
+        "d": "Intergranular texture"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What is the term when augite has inclusions of plagioclase felspar?",
+      "answers": {
+        "a": "Poiklitic",
+        "b": "Granitic",
+        "c": "Felsitic",
+        "d": "Ophitic"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
