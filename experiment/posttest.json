@@ -9,12 +9,7 @@
         "c": "Shape",
         "d": "Arrangement of the constituents within the body of the rock"
       },
-      "explanations": {
-        "a": "Explanation :The term texture is defined as the mutual relationship of different mineralogical constituents in a rock. It is determined by the size, shape and arrangement of these constituents within the body of the rock.",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Felsitic",
         "d": "Ophitic"
       },
-      "explanations": {
-        "a": "Explanation : Poikilitic texture is characterized with the presence of fine-grained crystals within the body of large sized crystals. In other words, it is just the reverse of the porphyritic textures.",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "Felsitic",
         "d": "Ophitic"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation :When the host mineral is identified as augite and the inclusions are of plagioclase felspars, the poiklitic texture is further distinguished as ophitic."
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
