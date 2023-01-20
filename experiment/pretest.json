@@ -9,12 +9,7 @@
         "c": "Porphyritic texture",
         "d": "Directive texture"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation :The porphyritic texture is characterized by the presence of a few conspicuously large sized crystals (the phenocrysts) which are embedded in a fine-grained ground mass or matrix.",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -26,12 +21,7 @@
         "c": "Orthophyric",
         "d": "Transitional"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation :Orthophyric texture is another type of equigranular texture, which is in between the granitic and felsitic textures. The individual grains are fine in size but not microgranular.",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -43,12 +33,7 @@
         "c": "Intergrowth",
         "d": "Intergranular"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation :Those textures that indicate the result of the flow of magma during the formation of rocks are known as directive textures.",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -60,12 +45,7 @@
         "c": "Interstitial texture",
         "d": "Intergranular texture"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation :During the formation of the igneous rocks, sometimes two or more minerals may crystallize out simultaneously in a limited space so that the resulting crystals are mixed up or intergrown. This type of mutual arrangement is expressed by the term intergrowth texture.",
-        "c": "Explanation ",
-        "d": "Explanation "
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -77,12 +57,7 @@
         "c": "Felsitic",
         "d": "Ophitic"
       },
-      "explanations": {
-        "a": "Explanation ",
-        "b": "Explanation ",
-        "c": "Explanation ",
-        "d": "Explanation :When the host mineral is identified as augite and the inclusions are of plagioclase felspars, the poiklitic texture is further distinguished as ophitic."
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
